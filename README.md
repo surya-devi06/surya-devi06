@@ -5,7 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/surya-devi007/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" /></a>
+  <a href="https://surya39t.neocities.org/portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-DC2626?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a" alt="Portfolio" />
+</a>
   <a href="https://surya39t.neocities.org/portfolio/" target="_blank"><img src="https://www.vecteezy.com/free-png/instagram-logo-black" alt="Portfolio" /></a>
   <a href="https://leetcode.com/u/surya-devi/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-Profile-DC2626?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0a0a0a" alt="LeetCode" /></a>
   <a href="mailto:suryadevi0607@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" /></a>
