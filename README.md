@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-    <a href="https://surya39t.neocities.org/portfolio/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-Profile-DC2626?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0a0a0a" alt="LeetCode" /></a>
+    <a href="https://surya39t.neocities.org/portfolio/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-Profile-DC2626?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0a0a0a" alt="Portfolio" /></a>
   <a href="https://leetcode.com/u/surya-devi/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-Profile-DC2626?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0a0a0a" alt="LeetCode" /></a>
   <a href="mailto:suryadevi0607@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" /></a>
   <a href="https://drive.google.com/file/d/1g4gdKPQl3pjLpeq3uiSfEh1T9vG7jWR8/view?usp=drivesdk" target="_blank"><img src="https://img.shields.io/badge/Resume-View-DC2626?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=0a0a0a" alt="Resume" /></a>
