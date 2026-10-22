@@ -1,33 +1,40 @@
 <div align="center">
 
+  <!-- Header Name & Greeting -->
+  <h1 align="center">
+    Hi there, I'm Surya Devi :wave:
+  </h1>
+
   <!-- Header Dynamic Typing SVG -->
-  <a href="https://github.com/surya-devi06">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=50&lines=Hi+there!+I'm+Surya+Devi+👋;Software+Developer;Computer+Science+Engineering+Student;Building+practical+software+%26+solving+problems" alt="Surya Devi - Typing Introduction" />
-  </a>
+  <p align="center">
+    <a href="https://github.com/surya-devi06">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=45&lines=Software+Developer;Computer+Science+Engineering+Student;Java+%26+Full-Stack+Web+Development;Building+practical+software+and+solving+problems" alt="Surya Devi - Typing Introduction" />
+    </a>
+  </p>
 
   <p align="center">
-    <strong>Building practical software, solving problems, and learning by creating.</strong>
+    <em>"Building practical software, solving problems, and learning by creating."</em>
   </p>
 
   <!-- Profile & Social Badges -->
   <p align="center">
-    <a href="https://github.com/surya-devi06">
-      <img src="https://img.shields.io/badge/GitHub-surya--devi06-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+    <a href="https://github.com/surya-devi06" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
     </a>
-    <a href="https://www.linkedin.com/in/surya-devi007/">
-      <img src="https://img.shields.io/badge/LinkedIn-surya--devi007-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+    <a href="https://www.linkedin.com/in/surya-devi007/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
     </a>
-    <a href="https://leetcode.com/u/surya-devi/">
-      <img src="https://img.shields.io/badge/LeetCode-90%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
+    <a href="https://leetcode.com/u/surya-devi/" target="_blank">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
     </a>
-    <a href="https://surya-devi.vercel.app/">
-      <img src="https://img.shields.io/badge/Portfolio-surya--devi.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Website" />
+    <a href="https://surya-devi.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Website" />
     </a>
-    <a href="https://drive.google.com/file/d/1_RoPrwvdrRTfe0p3JLah5v-hOrzHRLWz/view?usp=drive_link">
-      <img src="https://img.shields.io/badge/Resume-View%20Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume PDF" />
+    <a href="https://drive.google.com/file/d/1_RoPrwvdrRTfe0p3JLah5v-hOrzHRLWz/view?usp=drive_link" target="_blank">
+      <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume PDF" />
     </a>
-    <a href="https://www.instagram.com/cart.bag/">
-      <img src="https://img.shields.io/badge/Instagram-@cart.bag-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Profile" />
+    <a href="https://www.instagram.com/cart.bag/" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Profile" />
     </a>
   </p>
 
@@ -315,7 +322,7 @@ motto: "Building practical software, solving problems, and learning by creating.
   <br />
 
   <p>
-    <sub>Designed with care • Built for Surya Devi's GitHub Profile</sub>
+    <sub>Designed with care &bull; Built for Surya Devi's GitHub Profile</sub>
   </p>
 
 </div>
