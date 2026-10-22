@@ -1,109 +1,79 @@
-<div align="center">
+<h1 align="center">
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="36" alt="Cool Blob GIF"/> Hey! Nice to see you
+</h1>
 
-  <!-- Header Name & Greeting -->
-  <h1 align="center">
-    Hi there, I'm Surya Devi :wave:
-  </h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=surya-devi06&label=Profile%20Views&color=0284c7&style=flat-square" alt="Profile Views"/>
+  <a href="https://github.com/surya-devi06" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/surya-devi06/surya-devi06?style=flat-square" alt="Commit Activity"/></a>
+  <a href="https://github.com/surya-devi06?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/surya-devi06?color=4C1&logo=github&style=flat-square"></a>
+  <a href="https://github.com/surya-devi06/surya-devi06" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/surya-devi06/surya-devi06?label=Profile%20update&style=flat-square"></a>
+</p>
 
-  <!-- Header Dynamic Typing SVG -->
-  <p align="center">
-    <a href="https://github.com/surya-devi06">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=45&lines=Software+Developer;Computer+Science+Engineering+Student;Java+%26+Full-Stack+Web+Development;Building+practical+software+and+solving+problems" alt="Surya Devi - Typing Introduction" />
-    </a>
-  </p>
+<h3 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26" alt="Waving Hand GIF"> Hi, I'm Surya Devi! Software Developer | Computer Science Engineering Student <img align="center" alt="Sparkles GIF" width="28" src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif"/>
+</h3>
 
-  <p align="center">
-    <em>"Building practical software, solving problems, and learning by creating."</em>
-  </p>
+<p align="center">
+  <em>"Building practical software, solving problems, and learning by creating."</em>
+</p>
 
-  <!-- Profile & Social Badges -->
-  <p align="center">
-    <a href="https://github.com/surya-devi06" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
-    </a>
-    <a href="https://www.linkedin.com/in/surya-devi007/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
-    </a>
-    <a href="https://leetcode.com/u/surya-devi/" target="_blank">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
-    </a>
-    <a href="https://surya-devi.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Website" />
-    </a>
-    <a href="https://drive.google.com/file/d/1_RoPrwvdrRTfe0p3JLah5v-hOrzHRLWz/view?usp=drive_link" target="_blank">
-      <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume PDF" />
-    </a>
-    <a href="https://www.instagram.com/cart.bag/" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Profile" />
-    </a>
-  </p>
-
-  <!-- Visitor Counter Badge -->
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=surya-devi06&label=Profile%20Views&color=0284c7&style=flat-square" alt="Profile Views" />
-  </p>
-
-</div>
+<p align="center">
+  <a href="https://github.com/surya-devi06" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@surya--devi06-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/surya-devi007/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-surya--devi007-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
+  <a href="https://leetcode.com/u/surya-devi/" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode%20(90%20Solved)-FFA116?style=flat-square&logo=LeetCode&logoColor=black"></a>
+  <a href="https://surya-devi.vercel.app/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/-portfolio-000000?style=flat-square&logo=Vercel&logoColor=white"></a>
+  <a href="https://drive.google.com/file/d/1_RoPrwvdrRTfe0p3JLah5v-hOrzHRLWz/view?usp=drive_link" target="_blank"><img alt="Resume" src="https://img.shields.io/badge/-Resume%20(PDF)-4285F4?style=flat-square&logo=GoogleDrive&logoColor=white"></a>
+  <a href="https://www.instagram.com/cart.bag/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-@cart.bag-E4405F?style=flat-square&logo=Instagram&logoColor=white"></a>
+</p>
 
 ---
 
-### 👨‍💻 About Me
+##### NOW
 
-```yaml
-name: Surya Devi
-role: Software Developer
-status: Computer Science Engineering Student
-passions: [Software Development, Java, DSA, Full-Stack Web Development]
-motto: "Building practical software, solving problems, and learning by creating."
-```
+- <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="28" alt="Developer GIF"> Currently building practical software applications, strengthening core Java & DSA, and mastering full-stack web architecture.
 
-* 🎓 **Computer Science Engineering Student** passionate about engineering practical software applications and developing clean, maintainable systems.
-* ☕ **Java & Algorithmic Problem Solving:** Actively solving algorithmic challenges on LeetCode (**90 problems solved**) and mastering core Data Structures & Algorithms.
-* 🌐 **Full-Stack Development:** Designing responsive client interfaces and robust backend RESTful APIs with Spring Boot and relational databases.
-* 🛠️ **Learning by Implementation:** Enthusiastic about turning ideas into working code, exploring modern developer tooling, and understanding system internals.
-* 🤝 **Open for Collaboration:** Interested in contributing to impactful open-source initiatives and collaborating on meaningful software projects.
+#### BIO
+
+- 🎓 **Computer Science Engineering Student** passionate about software engineering and clean code.
+- ☕ Area of interest is in <img src="https://img.shields.io/badge/Java Programming-ED8B00?style=flat-square&logo=openjdk&logoColor=white">, <img src="https://img.shields.io/badge/Data Structures & Algorithms-0077B5?style=flat-square">, and <img src="https://img.shields.io/badge/Full Stack Web Development-005571?style=flat-square">.
+- 🎯 Specifically focused on building practical, scalable software applications and systematic problem solving.
+- 🌱 Actively mastering <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=spring&logoColor=white"> and solving challenges on <img src="https://img.shields.io/badge/LeetCode-90 Solved-FFA116?style=flat-square&logo=leetcode&logoColor=black">.
+- <img align="center" width="27" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" alt="Collab GIF"> Looking to collaborate on *Open Source Projects* & impactful real-world software.
+- <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/message.gif" width="25" alt="Message GIF"/> Ping me about <img src="https://img.shields.io/badge/Software Development-blue?style=flat-square"> and <img src="https://img.shields.io/badge/System Architecture-purple?style=flat-square">.
+- <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/letterbox.gif" width="25" alt="Mail GIF"/> Connect with me: <a href="https://www.linkedin.com/in/surya-devi007/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-surya--devi007-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
 
 ---
 
-### 🎯 Currently Focusing On
+### 💻 Technologies & Tools
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>☕ Java & Data Structures</h4>
-      <p>Practicing algorithmic problem solving, time/space complexity optimization, and Object-Oriented Design in Java.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🌐 Full-Stack Web Development</h4>
-      <p>Building end-to-end web applications with Spring Boot backend services, RESTful APIs, MySQL, and responsive frontend interfaces.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>💻 Practical Application Engineering</h4>
-      <p>Creating functional utility software—such as desktop transcription tools, AI-integrated platforms, and student productivity hubs.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🚀 Software Craftsmanship & Git</h4>
-      <p>Writing structured, testable code, maintaining modular repository architecture, and practicing standard Git/GitHub collaborative workflows.</p>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🛠️ Tech Stack & Tools
+<p align="center">
+  <a href="https://github.com/surya-devi06" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white">
+  <img alt="REST APIs" src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
+  <img alt="Cursor" src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white">
+  <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white">
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white">
+  <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black">
+</p>
 
 <div align="center">
 
-| Domain | Technologies & Frameworks |
+| Category | Stack Overview |
 | :--- | :--- |
-| **Languages** | <img src="https://skillicons.dev/icons?i=java,js,python&theme=dark" alt="Languages: Java, JavaScript, Python" /> |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="Frontend: HTML5, CSS3, JavaScript" /> |
-| **Backend & APIs** | <img src="https://skillicons.dev/icons?i=spring&theme=dark" alt="Backend: Spring Boot" /> <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" /> |
-| **Database** | <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="Database: MySQL" /> |
-| **Developer Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman&theme=dark" alt="Tools: Git, GitHub, VS Code, IntelliJ IDEA, Postman" /> <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor IDE" /> |
-| **Problem Solving** | <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /> <img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-0A66C2?style=for-the-badge&logo=codementor&logoColor=white" alt="DSA" /> |
+| **Languages** | <img src="https://skillicons.dev/icons?i=java,js,python&theme=dark" alt="Languages" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="Frontend" /> |
+| **Backend & APIs** | <img src="https://skillicons.dev/icons?i=spring&theme=dark" alt="Spring" /> <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST" /> |
+| **Database** | <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="Database" /> |
+| **Developer Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman&theme=dark" alt="Tools" /> <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" /> |
 
 </div>
 
@@ -247,8 +217,7 @@ motto: "Building practical software, solving problems, and learning by creating.
     <em>Practicing structured problem solving with an emphasis on Data Structures (Arrays, Strings, Linked Lists, Trees, Hash Maps) and foundational algorithms (Two Pointers, Sliding Window, Binary Search, DFS/BFS) in Java.</em>
   </p>
 
-  <!-- LeetCode Dynamic Stats Card -->
-  <a href="https://leetcode.com/u/surya-devi/">
+  <a href="https://leetcode.com/u/surya-devi/" target="_blank">
     <img src="https://leetcard.jacoblin.cool/surya-devi?theme=dark&font=Fira+Code&border=0&radius=10" alt="Surya Devi's LeetCode Stats" />
   </a>
 
@@ -256,66 +225,50 @@ motto: "Building practical software, solving problems, and learning by creating.
 
 ---
 
-### 📊 GitHub Statistics & Activity
+<details open>
+<summary><samp>&#9776;</samp> 📊 GitHub Analytics & Activity <i>(click to expand/collapse)</i> </summary>
+<br>
 
 <div align="center">
-
-  <!-- GitHub Readme Stats & Top Languages -->
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=surya-devi06&show_icons=true&theme=tokyonight&hide_border=false&border_radius=8" alt="Surya Devi's GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surya-devi06&layout=compact&theme=tokyonight&hide_border=false&border_radius=8" alt="Surya Devi's Most Used Languages" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=surya-devi06&show_icons=true&theme=tokyonight&hide_border=false&border_radius=8" alt="Surya Devi's GitHub Stats" />
+    <img height="150em" src="https://streak-stats.demolab.com/?user=surya-devi06&theme=tokyonight&hide_border=false&border_radius=8" alt="Surya Devi's GitHub Streak" />
   </p>
-
-  <!-- GitHub Readme Streak Stats -->
   <p align="center">
-    <img src="https://streak-stats.demolab.com/?user=surya-devi06&theme=tokyonight&hide_border=false&border_radius=8" alt="Surya Devi's GitHub Streak" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surya-devi06&layout=compact&theme=tokyonight&hide_border=false&border_radius=8" alt="Surya Devi's Most Used Languages" />
   </p>
-
 </div>
 
----
-
-### 📌 What I'm Working On
-
-- ☕ **Core Java Mastery:** Deepening understanding of Collections framework, Object-Oriented Design patterns, and multithreading fundamentals.
-- 🧩 **Consistent DSA Practice:** Solving LeetCode problems daily to sharpen algorithmic intuition and time-space complexity optimization.
-- 🌐 **Full-Stack Projects:** Building scalable Spring Boot REST APIs paired with responsive web frontends.
-- 📐 **Software Quality:** Integrating clean architecture, structured logging, database schema migrations, and automated unit testing into projects.
-- 🤝 **Open Collaboration:** Contributing to open-source software and collaborating through standard Git pull request workflows.
+</details>
 
 ---
-
-### 📬 Connect With Me
 
 <div align="center">
+  <h3>Connect with me <a href="https://github.com/surya-devi06"><img src="https://raw.githubusercontent.com/milaan9/milaan9/main/Handshake.gif" width="55" alt="Handshake GIF"></a></h3>
 
-  <p>
-    Feel free to explore my repositories, view my live demos, or connect across any of the platforms below:
-  </p>
-
-  <p>
-    <a href="https://github.com/surya-devi06">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <p align="center">
+    <a href="https://github.com/surya-devi06" target="_blank">
+      <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
     </a>
     &nbsp;
-    <a href="https://www.linkedin.com/in/surya-devi007/">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <a href="https://www.linkedin.com/in/surya-devi007/" target="_blank">
+      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     &nbsp;
-    <a href="https://leetcode.com/u/surya-devi/">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+    <a href="https://leetcode.com/u/surya-devi/" target="_blank">
+      <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
     </a>
     &nbsp;
-    <a href="https://surya-devi.vercel.app/">
-      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <a href="https://surya-devi.vercel.app/" target="_blank">
+      <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
     </a>
     &nbsp;
-    <a href="https://drive.google.com/file/d/1_RoPrwvdrRTfe0p3JLah5v-hOrzHRLWz/view?usp=drive_link">
-      <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
+    <a href="https://drive.google.com/file/d/1_RoPrwvdrRTfe0p3JLah5v-hOrzHRLWz/view?usp=drive_link" target="_blank">
+      <img alt="Resume" src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
     </a>
     &nbsp;
-    <a href="https://www.instagram.com/cart.bag/">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <a href="https://www.instagram.com/cart.bag/" target="_blank">
+      <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
   </p>
 
@@ -324,5 +277,4 @@ motto: "Building practical software, solving problems, and learning by creating.
   <p>
     <sub>Designed with care &bull; Built for Surya Devi's GitHub Profile</sub>
   </p>
-
 </div>
